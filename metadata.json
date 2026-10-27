@@ -1,0 +1,6 @@
+{
+  "name": "AirDrive FTP Server",
+  "description": "Auto-starting local FTP server on Wi-Fi connection with mDNS advertising, trusted networks, and storage access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
